@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\thras\OneDrive\Рабочий стол\Файлы с программированием\Основы программирования\2023 FP\LI_4\LI_4\Source.cpp(49,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LI_4.vcxproj -> C:\Users\thras\OneDrive\Рабочий стол\Файлы с программированием\Основы программирования\2023 FP\LI_4\x64\Debug\LI_4.exe
